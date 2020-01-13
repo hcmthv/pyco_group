@@ -6,7 +6,7 @@
 
 ## Installation
 
-# in project must install modules of nodes such as:
+# In project must install modules of nodes such as:
 npm install
 
 ## setup project on command line as step:
