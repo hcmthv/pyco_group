@@ -1,7 +1,7 @@
 # pyco_group
 **Tip:** Installing modules locally allows you to control and share the versions through `package.json`.
 ** Source is running on nodeJS enviroment.
-# make sure you already installed npm and nodej.
+# Make sure that you already installed npm and nodej.
 
 
 ## Installation
